@@ -1,0 +1,1 @@
+# Qt_libusb_test
